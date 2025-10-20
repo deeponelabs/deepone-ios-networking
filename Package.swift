@@ -5,10 +5,6 @@ import PackageDescription
 
 let package = Package(
     name: "DeepOneNetworking",
-    platforms: [
-        .iOS(.v13),
-        .macCatalyst(.v13)
-    ],
     products: [
         .library(
             name: "DeepOneNetworking",
