@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "DeepOneNetworking"
-  spec.version      = "1.1.5"
+  spec.version      = "1.1.6"
   spec.summary      = "DeepOne Networking"
   spec.description  = <<-DESC
                       DeepOne Networking Framework provides the essential networking and 
